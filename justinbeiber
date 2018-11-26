@@ -1,0 +1,75 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<HTML>
+<Head>
+	<META http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<Title>index.html</Title>
+	</Head>
+
+	<BODY>
+<H1><a href = "https://en.wikipedia.org/wiki/Justin_Bieber"> This is a link 
+to Justin Beiber wikipedia page </a></h1>
+<div style="text-align:center">
+<h2>About Justin</h2>
+<div style="background-color:lightgreen">
+<p>Justin Drew Bieber was born on March first in 1994. He is from Canada and 
+was born in <I>London,Ontario</I>. He knows someone named Scooter which is a 
+really cool name. His first song was called <I>One Time</I> and it came out 
+when he was 16. He has sold 140 million records and has come out with 4 
+albums. Justin also suffers with a rare disease that makes him want to do 
+foolish things no matter what the consequences are. Doctors believe that this 
+is due to his extreme case of <B>Affluenza</B>. One of the labels he is 
+signed to is <abbr title="Raymond Braun Media Group">RBMG</abbr>.
+ </p>
+ </div>
+ </div>
+ <div style="text-align:left">
+ <h2>Here is a list of his albums</h2>
+ <table border =1>
+ 	<tr><th>Album</th><th>Year</th>
+ 	</tr>
+ 	<tr>
+ 		<td>My World 2.0</td><td> 2010</td></tr>
+ 	<tr>
+ 		<td>Under the Mistletoe</td><td> 2011</td></tr>
+ 	<tr>
+ 		<td>Believe</td><td>2012</td></tr>
+ 	<tr>
+ 		<td>Purpose</td><td>2015</td></tr>
+ 	</table>
+	<h5>Reasons why I love Justin
+	<ol>
+  <li>He donates to charity</li>
+  <li>His music is amazing</li>
+  <li>He loves janitors</li>
+  <li>He is very attractive</li>
+  <li>He is an icon</li>
+</ol>
+</div>
+<div style="text-align:center">
+<H3>Here is how Justin Bieber eats a burrito</h3>
+<img src = "burrito.png" alt="Justin Bieber eating a burrito">
+</div>
+
+<h4>My Experience with Justin</h4>
+<div style="background-color:lightblue">
+<p>I first discovered the young Bieber at the tender age of 10, and I have 
+not stopped listening to his music ever since! His songwriting has a quality 
+to it that is not found often within the realm of popular music. Below is a 
+video of one of his biggest hit songs to date, <i>Sorry</i>!
+ </p>
+ </div>
+
+ 
+ <H1><a href = "https://www.youtube.com/watch?v=fRh_vgS2dFE"> THIS SONG IS 
+AMAZING </a></h1>
+<div style="background-color:red">
+<p>Thank you all for visiting my site!!! I hope you all had a good time!!!</p>
+</div>
+</body>
+
+
+</HTML>
+
+burrito.png
+
